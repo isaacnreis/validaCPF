@@ -6,7 +6,7 @@
 
 <br>
 
-<h2 align="center"><a href="https://github.com/isaacnreis/validaCPF">Clique para visitar o projeto</a></h2>
+<h2 align="center"><a href="https://isaacnreis.github.io/validaCPF/">Clique para visitar o projeto</a></h2>
 
 ---
 
